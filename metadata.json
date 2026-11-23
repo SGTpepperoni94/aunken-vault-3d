@@ -1,0 +1,6 @@
+{
+  "name": "The Sunken Vaults",
+  "description": "A first-person retro-3D dark fantasy Action RPG with Soulslike combat weight, procedural Diablo-style loot, skill-mutating Mystic Runes, and high-stakes extraction delves.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
